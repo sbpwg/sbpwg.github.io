@@ -4,7 +4,7 @@
 
 ## Important Note
 
-As of 10/XX/26, the entire lbpw.larc.nasa.gov site has been relocated to **GitHub**; the original NASA Langley URL now redirects to this site.
+The entire lbpw.larc.nasa.gov site is currently being migrated to **GitHub**; the original NASA Langley URL will shortly redirect to this site.
 
 ## Purpose
 
