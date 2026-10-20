@@ -27,7 +27,7 @@ This site provides a centralized location for the dissemination of information a
 - 2016 AIAA SciTech Special Sessions
 - 2015 AIAA AVIATION Special Sessions
 - 2015 AIAA SciTech Special Sessions
-- [2014 AIAA AVIATION Special Sessions](/sbpw1/references/2014-aviation/index.md)
+- [2014 AIAA AVIATION Special Sessions](/sbpw1/references/2014-aviation/)
 - 2014 1st AIAA Sonic Boom Workshop Related Publications
 - ASM 2013 Special Session
 - 2008 NASA Boom Workshop
