@@ -33,5 +33,5 @@ This site provides a centralized location for the dissemination of information a
 - 2008 NASA Boom Workshop
 
 ---
-***Page Curators:*** [Mathias Wintzer](mailto:mathias.wintzer@nasa.gov)  
+***Page Curators:*** [Mathias Wintzer](mailto:mathias.wintzer@nasa.gov), [Alexandra Loubeau](mailto:a.loubeau@nasa.gov)\
 ***Last Updated:*** Oct 15, 2026
