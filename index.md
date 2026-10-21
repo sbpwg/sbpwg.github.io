@@ -19,8 +19,8 @@ This site provides a centralized location for the dissemination of information a
 
 ## References
 
-- 2019 AIAA AVIATION Special Sessions
-- SBPW2 AIAA Journal of Aircraft Special Section
+- [2019 AIAA AVIATION Special Sessions](references/2019-aviation/)
+- [SBPW2 AIAA Journal of Aircraft Special Section](references/sbpw2-aiaaja/)
 - [2017 AIAA AVIATION Special Sessions](references/2017-aviation/)
 - [2017 AIAA SciTech Special Sessions](references/2017-scitech/)
 - [2016 AIAA AVIATION Special Sessions](references/2016-aviation/)
