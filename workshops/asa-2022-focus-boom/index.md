@@ -14,7 +14,7 @@ Important Dates:
 - 23 May 2022: Submission of results to the NASA Box file share location.
 - 23-27 May 2022: 182nd ASA Meeting
 
-The Third Sonic Boom Prediction Workshop Propagation Presentation Guidelines (Version 2) will be reused for ASA 2022: [SBPW3_Propagation_Presentation_Guidelines_v2.pdf](/references/sbpw3/SBPW3_Propagation_Presentation_Guidelines_v2.pdf)
+The Third Sonic Boom Prediction Workshop Propagation Presentation Guidelines (Version 2) will be reused for ASA 2022: [SBPW3_Propagation_Presentation_Guidelines_v2.pdf](/workshops/sbpw3/SBPW3_Propagation_Presentation_Guidelines_v2.pdf)
 
 The test cases are in the case1 and case2 directories.
 
