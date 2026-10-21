@@ -12,9 +12,9 @@ The agenda for the workshop is available as [Final Agenda (Version 3)](sbpw2-age
 
 Interested in the current or future workshops? [Subscribe to email announcements](http://lists.nasa.gov/mailman/listinfo/aiaa-boompw-announcement).
 
-[Near Field CFD Test Cases for the Second AIAA Sonic Boom Workshop](sbpw2/nearfield/)
+[Near Field CFD Test Cases for the Second AIAA Sonic Boom Workshop](nearfield/)
 
-[Sonic Boom Propagation Test Cases for the Second AIAA Sonic Boom Workshop](sbpw2/propagation/)
+[Sonic Boom Propagation Test Cases for the Second AIAA Sonic Boom Workshop](propagation/)
 
 **Important Dates:**
 
