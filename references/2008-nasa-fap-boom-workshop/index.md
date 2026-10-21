@@ -6,7 +6,7 @@ The Supersonics Project of the NASA Fundamental Aeronautics Program organized an
 
 ## Summary Paper
 
-[Summary of the 2008 NASA Fundamental Aeronautics Program Sonic Boom Prediction Workshop](aiaa-asm-2013-2008fap-boom-workshop-summary.pdf) AIAA paper presented at the 2013 Aerospace Sciences Meeting. This article documents the workshop, results, and provides context on previously available and recently developed methods.
+[Summary of the 2008 NASA Fundamental Aeronautics Program Sonic Boom Prediction Workshop](/references/asm-2013-special-session/aiaa-asm-2013-2008fap-boom-workshop-summary.pdf) AIAA paper presented at the 2013 Aerospace Sciences Meeting. This article documents the workshop, results, and provides context on previously available and recently developed methods.
 
 ## Workshop Presentations
 
