@@ -29,9 +29,9 @@ This site provides a centralized location for the dissemination of information a
 - 2015 AIAA SciTech Special Sessions
 - [2014 AIAA AVIATION Special Sessions](/sbpw1/references/2014-aviation/)
 - [2014 1st AIAA Sonic Boom Workshop Related Publications](/sbpw1/references/)
-- ASM 2013 Special Session
+- [ASM 2013 Special Session](references/asm-2013-special-session/)
 - [2008 NASA Boom Workshop](references/2008-nasa-fap-boom-workshop/)
 
 ---
 ***Page Curators:*** [Mathias Wintzer](mailto:mathias.wintzer@nasa.gov), [Alexandra Loubeau](mailto:a.loubeau@nasa.gov)\
-***Last Updated:*** Oct 15, 2026
+***Last Updated:*** Oct 21, 2026
