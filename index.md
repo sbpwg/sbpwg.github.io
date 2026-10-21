@@ -12,8 +12,8 @@ This site provides a centralized location for the dissemination of information a
 
 ## Archived
 
-- ASA Focus Boom (2022)
-- 3rd Workshop (2020)
+- [ASA Focus Boom (2022)](workshops/asa-2022-focus-boom/)
+- [3rd Workshop (2020)](workshops/sbpw3/)
 - 2nd Workshop (2017)
 - [1st Workshop (2014)](/sbpw1/)
 
