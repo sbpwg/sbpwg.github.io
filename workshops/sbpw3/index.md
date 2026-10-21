@@ -12,7 +12,7 @@ The third workshop is planned for the weekend before the AIAA Science and Techno
 
 [Sonic Boom Prediction Workshop Propagation Presentation Guidelines (Version 2)](SBPW3_Propagation_Presentation_Guidelines_v2.pdf)
 
-The [‘biconvex’ nearfield CFD shock-plume interaction](sbpw3/biconvex/), the [‘c608’ nearfield CFD Low Boom Flight Demonstrator](sbpw3/c608/), and the [‘case1’ and ‘case2’ propagation](sbpw3/propagation-cases/) cases are available. The Notice of Intent included a request for ‘axie’ nearfield CFD and ‘axibody’ propagation repeat cases from the previous workshop. Repeating this previous case allows new and previous participants an opportunity to practice the case submission process and self-evaluate results based on published submissions and submission statistics.
+The [‘biconvex’ nearfield CFD shock-plume interaction](biconvex), the [‘c608’ nearfield CFD Low Boom Flight Demonstrator](c608), and the [‘case1’ and ‘case2’ propagation](propagation-cases) cases are available. The Notice of Intent included a request for ‘axie’ nearfield CFD and ‘axibody’ propagation repeat cases from the previous workshop. Repeating this previous case allows new and previous participants an opportunity to practice the case submission process and self-evaluate results based on published submissions and submission statistics.
 
 [Submission instructions and case overview for participants](https://lbpw-ftp.larc.nasa.gov/sbpw3/sbpw3-instructions.txt)
 
